@@ -1,0 +1,14 @@
+{
+  "jmeno": "Miloš Krejčí",
+  "vek": 16,
+  "neni_plnolety": true,
+  "poznamka": null,
+  "adresa": {
+    "mesto": "Praha",
+    "ulice": "Poćernická"
+},
+  "konicky": [
+    "Fitko",
+    "Hraní na pc",
+  ]
+}
