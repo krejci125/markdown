@@ -2,7 +2,8 @@
   "jmeno": "Miloš Krejčí",
   "vek": 16,
   "neni_plnolety": true,
-  "poznamka": null,
+  "poznamka": "Rád sportuji",
+  "oblibene_cislo": 8,
   "adresa": {
     "mesto": "Praha",
     "ulice": "Poćernická"
